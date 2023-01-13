@@ -1,16 +1,25 @@
-# google_analytics_demo
+# Google Analytics Demo
 
-A new Flutter project.
+## Description
+- 📣 It is a demo app for Google Analytics (real-time overview).\
+Visit the firebase console to view the below-mentioned information.
 
-## Getting Started
+- 🔘 User Overview:\
+User activity over time, users in the last 30 minutes, and much more.
 
-This project is a starting point for a Flutter application.
+- 🔘 Demographic Overview:\
+Users by Country, Users by Country over time, and much more.
 
-A few resources to get you started if this is your first Flutter project:
+- 🔘 App Overview:\
+Latest app release overview, App stability overview, and much more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔘 Pages and screens Overview:\
+Views by Page title and screen class, Views by Page title and screen class over time, and much more.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🔘 Event Overview:\
+Event count by Event name, Event count by Event name over time, and much more.
+
+- ✨ You can send a custom event to Google Analytics Console as well.
+
+## Preview
+![alt text](https://i.postimg.cc/Hs7rMRMx/Screenshot-2023-01-13-at-11-13-05-AM.png "img")
